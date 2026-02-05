@@ -1,13 +1,13 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f9fafb;
+  background-color: #000000;
   color: #333;
   margin: 0;
   padding: 0;
 }
 
 .header {
-  background-color: #1f2937;
+  background-color: #ffffff;
   color: #fff;
   padding: 20px 0;
   text-align: center;
